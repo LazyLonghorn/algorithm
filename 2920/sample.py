@@ -1,3 +1,6 @@
+# 음계 (Easy)
+# 배열, 구현
+
 inVal = list(map(int, input().split()))
 
 ascType = True
